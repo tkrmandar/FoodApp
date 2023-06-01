@@ -1,0 +1,55 @@
+
+/* search element */
+.searchbutton{
+    color:#f5ba13;
+    border-color: #f5ba13;
+}
+.searchbutton:hover{
+    background-color: #f5ba13;
+}
+.searchbar{
+    z-index: 10;
+}
+
+
+
+
+/* Home carousel */
+.carouselimage{
+    filter:brightness(60%);
+    object-fit: contain !important;
+}
+.maincarousel{
+    max-height: 500px;
+}
+
+
+
+
+/* cards */
+.maincard{ 
+    width: 18rem; 
+    max-height: 360px;
+}
+
+
+
+/* footer */
+.footer{
+    color:grey;
+}
+
+
+
+/* primary button */
+.primarybutton{
+    background-color: #f5ba13;
+    border:none;
+    color:#f5ba13;  
+}
+.primarybutton:hover{
+    background-color: #f0b103;
+}
+.primarytext{
+    color:#f5ba13
+}
